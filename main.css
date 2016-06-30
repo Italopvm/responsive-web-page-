@@ -1,0 +1,38 @@
+/*nav bar*/
+.nav1 {
+     background: pink;
+      border-radius: 20px;
+}
+
+.navbarList {
+    list-style:none;
+    text-align:center;
+}
+
+.navLi {
+    display: inline;
+    padding: 20px 30px;
+    display:inline-block;
+    height: 40px;
+}
+
+.link1 {
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+
+}
+
+a:hover { 
+    background-color: aqua;
+}
+
+
+.list {
+    display: inline;
+    
+}
+
+.l1 {
+    text-decoration:none;
+}
