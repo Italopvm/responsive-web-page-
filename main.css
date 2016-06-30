@@ -1,6 +1,10 @@
 /*nav bar*/
+@media screen and (max-device-width: 300px)  {
+    
+
+}
 .nav1 {
-     background: pink;
+     background: aqua;
       border-radius: 20px;
 }
 
@@ -35,4 +39,18 @@ a:hover {
 
 .l1 {
     text-decoration:none;
+}
+
+.container {
+    margin: auto;
+    width:50%;
+}
+
+.unorderList {
+    list-style:none;
+    text-align:center;
+}
+
+.img {
+    display: inline-block;
 }
